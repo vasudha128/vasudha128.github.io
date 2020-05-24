@@ -14,7 +14,7 @@ Education
 * 2015 - Present Graduate Student, Indian Institute of Technology Gandhinagar
   * Current CPI: 8.98/10
 
-* 2011 - 2015 Bachelor of Technology (B. Tech) , Beant College of Engineering and
+* 2011 - 2015 Bachelor of Technology (B. Tech), Beant College of Engineering and
 Technology, Punjab
   * Major in Biotechnology
   * Gold Medal for Excellent Academic Performance
@@ -27,15 +27,15 @@ Education (ICSE), First Division
 
 Skills
 ======
-* **Wet Lab** -
+* **Wet Lab**-
 
-Molecular cloning, Protein expression, SDS-PAGE, Native-PAGE, FPLC protein purification, Protein Crystallization, EMSA, Ni-NTA
+  * Molecular cloning, Protein expression, SDS-PAGE, Native-PAGE, FPLC protein purification, Protein Crystallization, EMSA, Ni-NTA
 chromatography, Ion-exchange chromatography, Size Exclusion chromatography, Silver staining of nucleic acids, Western blotting,
 CRISPR Cas9 based gene editing, Cell culture, qPCR , Analysis of molecular markers(RAPD, SSR, SSCP)
 
-* **Dry Lab** - 
+* **Dry Lab**- 
 
-ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla, Genetrack, HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools, Genome browsers(UCSC, IGV), Statistical analysis using R,  Schrodinger for homology modelling, PyMol,GIMP
+  * ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla, Genetrack, HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools, Genome browsers(UCSC, IGV), Statistical analysis using R,  Schrodinger for homology modeling, PyMol,GIMP
 
 PhD Projects
 ====
@@ -74,17 +74,17 @@ Other Research Experience and Training
   
   Biological Engineering
   
-  **Advisor** : Prof Vijay Thiruvenkatam
+  **Advisor**: Prof Vijay Thiruvenkatam
   
-  **Project** : Expression, purification and crystallization of recombinant proteins
+  **Project**: Expression, purification and crystallization of recombinant proteins
 
 * Aug - Nov 2017 Project course, Indian Institute of Technology, Gandhinagar 
   
   Computer Science & Engineering
   
-  **Advisor** : Prof Manu Awasthi
+  **Advisor**: Prof Manu Awasthi
   
-  **Project** : Designing an Algorithm for mining Transposon sequences in genome using terminal inverted repeats
+  **Project**: Designing an Algorithm for mining Transposon sequences in genome using terminal inverted repeats
   
   * Learnt about pattern matching algorithms
   
