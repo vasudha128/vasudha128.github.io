@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-*2015 - Present Graduate Student, Indian Institute of Technology Gandhinagar
+* 2015 - Present Graduate Student, Indian Institute of Technology Gandhinagar
   * Current CPI: 8.98/10
 
-*2011 - 2015 Bachelor of Technology (B. Tech) , Beant College of Engineering and
+* 2011 - 2015 Bachelor of Technology (B. Tech) , Beant College of Engineering and
 Technology, Punjab
   * Major in Biotechnology
   * Gold Medal for Excellent Academic Performance
 
-*2009 - 2010 Higher Secondary Education (10+2), Central Board of Secondary
+* 2009 - 2010 Higher Secondary Education (10+2), Central Board of Secondary
 Education (CBSE), First Division
 
-*2007 - 2008 Secondary Education (10th Standard), Indian Certificate of Secondary
+* 2007 - 2008 Secondary Education (10th Standard), Indian Certificate of Secondary
 Education (ICSE), First Division
 
 Skills
