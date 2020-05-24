@@ -28,20 +28,15 @@ Education (ICSE), First Division
 Skills
 ======
 * Wet Lab
-Molecular cloning, Protein expression, SDS-PAGE, Native-PAGE, FPLC
-protein purification, Protein Crystallization, EMSA, Ni-NTA
-chromatography, Ion-exchange chromatography, Size Exclusion
-chromatography, Silver staining of nucleic acids, Western blotting,
-CRISPR Cas9 based gene editing, Cell culture, qPCR , Analysis of
-molecular markers(RAPD, SSR, SSCP)
+
+Molecular cloning, Protein expression, SDS-PAGE, Native-PAGE, FPLC protein purification, Protein Crystallization, EMSA, Ni-NTA
+chromatography, Ion-exchange chromatography, Size Exclusion chromatography, Silver staining of nucleic acids, Western blotting,
+CRISPR Cas9 based gene editing, Cell culture, qPCR , Analysis of molecular markers(RAPD, SSR, SSCP)
 
 * Dry Lab
-ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment
-tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla, Genetrack,
-HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools,
-Genome browsers(UCSC, IGV),
-Statistical analysis using R, Schrodinger for homology modelling, PyMol,
-GIMP
+
+ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla,          
+Genetrack, HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools, Genome browsers(UCSC, IGV), Statistical analysis using R,  Schrodinger for homology modelling, PyMol,GIMP
 
 PhD Projects
 ====
@@ -79,28 +74,42 @@ Other Research Experience and Training
 * Dec 2017 - April 2018 Project course, Indian Institute of Technology, Gandhinagar 
   
   Biological Engineering
+  
   Advisor : Prof Vijay Thiruvenkatam
+  
   Project : Expression, purification and crystallization of recombinant proteins
 
 * Aug - Nov 2017 Project course, Indian Institute of Technology, Gandhinagar 
   
   Computer Science & Engineering
+  
   Advisor : Prof Manu Awasthi
+  
   Project : Designing an Algorithm for mining Transposon sequences in genome using terminal inverted repeats
-    ● Learnt about pattern matching algorithms
-    ● Implemented naive and Rabin-Karp algorithms for pattern matching in python
+  
+  ● Learnt about pattern matching algorithms
+  
+  ● Implemented naive and Rabin-Karp algorithms for pattern matching in python
     
 * Sept - Dec 2015 Project course, Beant College of Engineering and Technology, Punjab
+  
   Advisor: Prof Indesh Attri
+  
   Project: Isolation, screening and characterization of cellulases produced by cellulolytic fungi from native environmental sources
-    ● Basic Microbiology techniques
-    ● Solid state fermentation
+  
+  ● Basic Microbiology techniques
+  
+  ● Solid state fermentation
     
 * July - Dec 2014 Internship, Institute of Himalayan Bioresource and Technology (CSIR), Palampur
+  
   Advisor: Dr. Ram Kumar Sharma, Senior Scientist
+  
   Project: Characterization and evaluation of transcription factor based based microsatellite markers in Camellia sinensis (tea)
-    ● Plant DNA isolation, Phenol-Chloroform Extraction
-    ● Studied plant molecular markers using RAPD, SSR, SSCP
+  
+  ● Plant DNA isolation, Phenol-Chloroform Extraction
+  
+  ● Studied plant molecular markers using RAPD, SSR, SSCP
 
 Teaching
 =====
@@ -133,26 +142,26 @@ Cell Biology, CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad, 
 Talks
 =====
 
-*“ChIP-exo analysis of THAP-9 binding sites in human cells.” presented at Aspects of Gene and
+* “ChIP-exo analysis of THAP-9 binding sites in human cells.” presented at Aspects of Gene and
 Cellular Regulation (AOGCR January 07, 2020), Institute of Mathematical Sciences Chennai, India.
 
 Awards and Achievements
 ======
-*2018 Full scholarship for attending DBT National workshop on CRISPR-Cas9
+* 2018 Full scholarship for attending DBT National workshop on CRISPR-Cas9
 based gene editing
 
-*2018 Travel award to participate at the 2018 International Congress of Cell
+* 2018 Travel award to participate at the 2018 International Congress of Cell
 Biology, CSIR-Centre for Cellular and Molecular Biology(CCMB),
 Hyderabad.
 
-*2017 Partial scholarship and travel award to participate at the 2017 NGBT
+* 2017 Partial scholarship and travel award to participate at the 2017 NGBT
 (NextGen Genomics, Biology, Bioinformatics and Technologies
 Conference)meeting.
 
-*2015 Gold Medal for Excellent Academic Performance in Biotechnology,
+* 2015 Gold Medal for Excellent Academic Performance in Biotechnology,
 Beant College of Engineering and Technology, Punjab
 
-*2015 Selected for summer internship program at NTUT Taipei, Taiwan by
+* 2015 Selected for summer internship program at NTUT Taipei, Taiwan by
 Punjab Technical University
 
 Referees
