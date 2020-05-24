@@ -1,5 +1,5 @@
 ---
-title: "Structure and Evolution of Indian Physics Co-authorship Networks"
+title: "Comparative analysis of ChIP-exo peak-callers: impact of data quality, read duplication and binding subtypes"
 collection: publications
 permalink: /publication/paper1
 excerpt: 'This study compares the peak-callers available for ChIP-exo reads using publically available datasets of Glucocorticoid receptors in three cell lines.'
