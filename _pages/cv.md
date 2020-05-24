@@ -27,29 +27,28 @@ Education (ICSE), First Division
 
 Skills
 ======
-* Wet Lab -
+* **Wet Lab** -
 
 Molecular cloning, Protein expression, SDS-PAGE, Native-PAGE, FPLC protein purification, Protein Crystallization, EMSA, Ni-NTA
 chromatography, Ion-exchange chromatography, Size Exclusion chromatography, Silver staining of nucleic acids, Western blotting,
 CRISPR Cas9 based gene editing, Cell culture, qPCR , Analysis of molecular markers(RAPD, SSR, SSCP)
 
-* Dry Lab - 
+* **Dry Lab** - 
 
-ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla,          
-Genetrack, HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools, Genome browsers(UCSC, IGV), Statistical analysis using R,  Schrodinger for homology modelling, PyMol,GIMP
+ChIP-seq and ChIP-exo data analysis using - SRA toolkit, Alignment tools (Bowtie, BWA), Peak calling (MACS, MACE, Peakzilla, Genetrack, HOMER), Motif analysis (HOMER, GEM, MEME, DREME), Deeptools, Genome browsers(UCSC, IGV), Statistical analysis using R,  Schrodinger for homology modelling, PyMol,GIMP
 
 PhD Projects
 ====
 
-* Comparison of online tools available for ChIP-exo data analysis (Completed and published).
+* **Comparison of online tools available for ChIP-exo data analysis (Completed and published)**.
 
   * In this study, we have compared the performance of popular peak callers on publicly
 available ChIP-exo data of Glucocorticoid receptor. The tools were used with default
 parameters to conclude which one works best without any modifications. We also addressed
 how the quality of reads affects peak-calling.
 
-* Identification of catalytic domain in human THAP9 transposase (Manuscript under
-preparation). 
+* **Identification of catalytic domain in human THAP9 transposase (Manuscript under
+preparation)**. 
 
   * The human THAP9 protein is homologous (25% identical and 40% similar) to the Drosophila
 P element transposase beyond its DNA binding domain. It is immobile in humans and exists
@@ -58,7 +57,7 @@ be catalytically active and can cut DNA flanked by P element’s TIRs in human a
 Drosophila cells. In this study we have investigated the presence of a DDE/D (Asp, Asp,
 Glu/Asp) catalytic triad which enables THAP9 to break DNA strands.
 
-* Genome-wide binding of THAP9 in human cells (Work in progress).
+* **Genome-wide binding of THAP9 in human cells (Work in progress)**.
 
   * THAP9 is a ‘cut and paste’ DNA transposase homologous to the well studied Drosophila
 P-element transposase. Interestingly, it is highly expressed in human embryonic stem cells
