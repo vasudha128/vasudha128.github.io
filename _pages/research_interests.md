@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""Research Interests
+permalink: /research_interests/
+author_profile: true
+---
+
+{% include base_path %}
+
 My research interests include anything and everything related to jumping genes!
 Transposons are amazing sequences of DNA that can cut and paste themselves within the genome (McClintock 1984). I was first introduced to them when I joined Dr. Sharmistha Majumdar’s group at Indian Institute Technology Gandhinagar in december 2015. Our group works on THAP-9 which is a ‘cut and paste’ transposon, homologous to widely studied P-element transposon in Drosophila. 
 When a host genome recruits a transposable element for its own functions such that it is advantageous to the host, such an event is known as molecular domestication or exaptation. Once domesticated, these elements become an essential part of cellular machinery. V(D)J recombinase responsible for antibody diversity in humans is also a result of molecular domestication of Transib transposon. We speculate the THAP-9 has undergone molecular domestication to serve some cellular function which is unknown yet. 
