@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: ""Research Interests
+title: "Research Interests"
 permalink: /research_interests/
 author_profile: true
+
 ---
 
 {% include base_path %}
